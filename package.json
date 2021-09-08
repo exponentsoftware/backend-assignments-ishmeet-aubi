@@ -1,5 +1,5 @@
 {
-  "name": "backend-assignments-milind1705",
+  "name": "backend-assignments",
   "version": "1.0.0",
   "description": "- Create APIs to get all, get by id, add, update by id and delete by id a TODO list\r - Should use MongoDB as a database\r - API should not have any additional routes",
   "main": "index.js",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/exponentsoftware/backend-assignments-milind1705.git"
+    "url": "git+https://github.com/exponentsoftware/backend-assignments-ishmeet-aubi.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/exponentsoftware/backend-assignments-milind1705/issues"
+    "url": "https://github.com/exponentsoftware/backend-assignments-ishmeet-aubi/issues"
   },
-  "homepage": "https://github.com/exponentsoftware/backend-assignments-milind1705#readme",
+  "homepage": "https://github.com/exponentsoftware/backend-assignments-ishmeet-aubi#readme",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "dotenv": "^10.0.0",
@@ -25,10 +25,6 @@
     "express": "^4.17.1",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^6.0.0",
-    "passport": "^0.4.1",
-    "pg": "^8.7.1",
-    "pg-hstore": "^2.3.4",
-    "sequelize": "^6.6.5",
     "validator": "^13.6.0"
   }
 }
